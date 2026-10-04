@@ -1,4 +1,5 @@
-sources/repos/
+sources/repos/*
+!sources/repos/.gitkeep
 .env
 .env.local
 .DS_Store
